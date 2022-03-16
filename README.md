@@ -31,7 +31,6 @@ Toutes les classes, ID et autres éléments doivent être en anglais.
 Seuls les commentaires peuvent se trouver en français.
 
 Vous devez être le plus fidèle possible à la maquette fournis.  
-**Le client est exigeant et refusera le "à peu près".**
 
 ## Preview
 
